@@ -5,7 +5,7 @@ const client = new Client({
   connectionString: process.env.DATABASE_URL,
 });
 client.connect();
-
+/////asdasd
 export async function GET() {
 
     try {   
